@@ -1,6 +1,8 @@
 # Python Course Diary
 
-https://www.udemy.com/course/the-python-mega-course/
+Course: https://www.udemy.com/course/the-python-mega-course/
+
+IDE: [JetBrains PyCharm Community Edition](https://www.jetbrains.com/pycharm/download/#:~:text=the%20Python%20ecosystem.-,PyCharm%20Community%20Edition,-The%20IDE%20for)
 
 ## Modules
 
